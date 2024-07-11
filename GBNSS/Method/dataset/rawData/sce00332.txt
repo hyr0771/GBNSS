@@ -1,0 +1,2 @@
+sce:YDR300C	sce:YOR323C
+sce:YHR033W	sce:YOR323C

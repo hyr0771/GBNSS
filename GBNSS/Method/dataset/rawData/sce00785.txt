@@ -1,0 +1,2 @@
+sce:YOR196C	sce:YJL046W
+sce:YLR239C	sce:YOR196C

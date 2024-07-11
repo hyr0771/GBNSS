@@ -1,0 +1,2 @@
+sce:YGR202C	sce:YNL130C
+sce:YGR007W	sce:YHR123W

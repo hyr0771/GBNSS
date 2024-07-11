@@ -1,0 +1,2 @@
+sce:YMR041C	sce:YML086C
+sce:YBR149W	sce:YML086C
