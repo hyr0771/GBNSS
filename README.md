@@ -1,7 +1,3 @@
-### Abstract
-Biological network similarity search plays a crucial role in the analysis of biological networks for human disease research, and drug discovery. The biological network similarity search aims to efficiently identify novel networks that are biologically homologous to the query networks. Great progress has been achieved in the biological network similarity search. However, it remains a challenge to fully mine the biological network information to improve the accuracy of query results without increasing time overheads. In this study, we propose a biological network similarity search method based on graph neural networks named GBNSS, which combines topological and biological information (GO annotations) of biological networks into the graph neural networks to find topologically and biologically similar biological networks in the database. Additionally, GBNSS is a topology-free biological network similarity search method with arbitrary network structure. The experimental results on four benchmark datasets show that GBNSS outperforms the existing methods in terms of computational efficiency and search accuracy. Case studies further demonstrate that GBNSS is capable of searching similar networks in real-world biological networks.
-
-
 ### Requirements
 The codebase is implemented in Python 3.10.6. package versions used for development are listed in requirment.txt
 
